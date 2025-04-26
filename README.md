@@ -1,6 +1,7 @@
 # Sparklehood-Task
 
 
+
 #  AI Safety Incident Tracker (Android App)
 
 ##  Project Overview
@@ -32,7 +33,7 @@ This app is entirely local and stores the data in-memory (using `MutableList`). 
 
 ### XML Layout Files (`.xml`)
 
-| File Name  Purpose |
+| File Name | Purpose |
 |-----------|---------|
 | `activity_main.xml` | UI for the home screen. Contains `Spinner`, `RecyclerView`, and `FAB`. |
 | `activity_report.xml` | UI for reporting a new incident. Includes `EditText`, `Spinner`, and a `Button`. |
